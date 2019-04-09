@@ -1,5 +1,15 @@
-wwww
-ddedd
 
-dsdscffff
-111111111111
+git init
+git status
+git add .
+git commit -m "描述"
+git branch "分支名字"
+git branch
+git checkout "分支名字"
+git merge "分支名字"
+git stash 
+git stash pop
+git stash list
+git stash apply "stash编号"
+git branch -d "分支名字"
+
